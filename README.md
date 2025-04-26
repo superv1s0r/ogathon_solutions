@@ -1,1 +1,0 @@
-# ogathon_solutions
